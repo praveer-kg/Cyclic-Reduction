@@ -1,6 +1,6 @@
 /*
 This program implements a tridiagonal solver following the Cyclic Reduction Method.
-Requires functions defined in the file "CR_Function.c"
+Requires functions defined in the file "CR.cpp"
 */
 #include "CR.cpp"
 #include<iostream>
